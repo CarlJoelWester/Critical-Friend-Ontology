@@ -1,0 +1,518 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#"
+     xml:base="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Affective -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Affective">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#CriticalFriend_Dimension"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Affective_Affirmative -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Affective_Affirmative">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Affective"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Affective_Emphasize -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Affective_Emphasize">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Affective"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Affective_Help -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Affective_Help">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Affective"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Affective_Raise_Achievements -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Affective_Raise_Achievements">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Affective"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Altruistic -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Altruistic">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#CriticalFriend_Dimension"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Altruistic_Committed -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Altruistic_Committed">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Altruistic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Altruistic_Share -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Altruistic_Share">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Altruistic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Altruistic_Supportive -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Altruistic_Supportive">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Altruistic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Altruistic_Unconditional -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Altruistic_Unconditional">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Altruistic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Challenge -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Challenge">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#CriticalFriend_Dimension"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Challenge_Assumptions -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Challenge_Assumptions">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Challenge"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Challenge_Effectiveness -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Challenge_Effectiveness">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Challenge"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Challenge_Ideas -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Challenge_Ideas">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Challenge"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Challenge_Perspectives -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Challenge_Perspectives">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Challenge"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#CriticalFriend_Dimension -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#CriticalFriend_Dimension"/>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#CriticalFriend_Factors -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#CriticalFriend_Factors"/>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Criticize -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Criticize">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#CriticalFriend_Dimension"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Criticize_Constructive -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Criticize_Constructive">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Criticize"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Criticize_Critique -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Criticize_Critique">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Criticize"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Criticize_Feedback -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Criticize_Feedback">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Criticize"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Criticize_Unconstructive -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Criticize_Unconstructive">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Criticize"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Enable -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Enable">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#CriticalFriend_Dimension"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Enable_Allow -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Enable_Allow">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Enable"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Enable_Create_Climate -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Enable_Create_Climate">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Enable"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Enable_Create_Space -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Enable_Create_Space">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Enable"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Enable_Set_Free -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Enable_Set_Free">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Enable"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Enlight -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Enlight">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#CriticalFriend_Dimension"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Flexible -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Flexible">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#CriticalFriend_Dimension"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Flexible_Appropriate -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Flexible_Appropriate">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Flexible"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Flexible_Cautious -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Flexible_Cautious">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Flexible"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Flexible_Engaging -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Flexible_Engaging">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Flexible"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Flexible_Relevant -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Flexible_Relevant">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Flexible"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#CriticalFriend_Dimension"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide_Aid -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide_Aid">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Enlight"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide_Decentre -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide_Decentre">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Enlight"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide_Encourage -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide_Encourage">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide_Enhance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide_Enhance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Enlight"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide_Extend -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide_Extend">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Enlight"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide_Facilitate -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide_Facilitate">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide_Shape -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide_Shape">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide_Suggestive -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide_Suggestive">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Guide"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Honesty -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Honesty">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#CriticalFriend_Dimension"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Honesty_Articulate -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Honesty_Articulate">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Honesty"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Honesty_Expose -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Honesty_Expose">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Honesty"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Honesty_Focused -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Honesty_Focused">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Honesty"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Honesty_Frank -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Honesty_Frank">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Honesty"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Relational -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Relational">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#CriticalFriend_Factors"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Relational_Anonymity -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Relational_Anonymity">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Relational"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Relational_Role -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Relational_Role">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Relational"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Relational_Tolerance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Relational_Tolerance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Relational"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Relational_Trust -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Relational_Trust">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Relational"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Situational -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Situational">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#CriticalFriend_Factors"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Situational_Critical_as_Friend -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Situational_Critical_as_Friend">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Situational"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Situational_Friend_as_Critical -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Situational_Friend_as_Critical">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Situational"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Situational_Necessary_Critical -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Situational_Necessary_Critical">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Situational"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Situational_Necessary_Friend -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Situational_Necessary_Friend">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Situational"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Temporal -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Temporal">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#CriticalFriend_Factors"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Temporal_Flow -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Temporal_Flow">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Temporal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Temporal_Long_term -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Temporal_Long_term">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Temporal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Temporal_Short_term -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Temporal_Short_term">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Temporal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Temporal_Timing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Temporal_Timing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/joel/ontologies/2022/3/untitled-ontology-2#Temporal"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
