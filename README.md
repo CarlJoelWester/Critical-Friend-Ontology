@@ -39,9 +39,11 @@ Situational has to do with situations as a factor, where balancing between being
 Authors
 
 Joel Wester {c.joel.wester@gmail.com}
+
 Andreas Brännström {andreasb@cs.umu.se} 
+
 Juan Carlos Nieves {jcnieves@cs.umu.se}
 
-Department of Computing Science
-Umeå university
+Department of Computing Science, Umeå university
+
 SE-901 87, Umeå, Sweden
