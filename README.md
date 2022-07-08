@@ -3,6 +3,13 @@ Critical Friend Ontology
 
 Utilizing Grounded Theory resulted in 9 dimensions forming the concept of the Critical Friend. In what follows, the dimensions constituting the Critical Friend are presented and explained, including the Critical Friend ontology and taxonomy.
 
+Method
+
+The initial step of this study was to collect available studies online that included a definition of the Critical Friend. Using Google Scholar was suitable for this study, due to no additional studies of relevance using databases ACM Digital Library and arXiv. Articles had to include keywords Critical and Friend in the title, resulting in 299 studies.  After reviewing titles and sorting out irrelevant studies, 52 studies were included in the next step. Reviewing abstracts of 52 studies excluded 20 studies, leaving 32 studies of relevance. A full reading of the 32 studies generated a final number of 18 studies to be included in analysis (see Table 1). In an iterative way, following a Grounded Theory process \cite{chun2019grounded}, collected studies were treated as raw data. First step in analysis consisted of initial coding, focusing on generating a large set of codes, allowing to establish a rigid basis for further analysis. Initial coding generated 206 codes. Secondly, intermediate coding helped aggregate initial codes, merging or deleting similar codes. Intermediate coding resulted in 75 codes sorted into 11 meaningful units. Thirdly, advanced coding focused on aggregating and revising codes and units. This step aggregated 75 codes into 54 codes, and 11 meaningful units into 9 categories/dimensions.
+
+
+Description of dimensions
+
 Altruism is about being unconditional in various ways, such as being supportive to ways of life, sharing joy and sorrow, and being the best friend that you possibly can be. For example, in a situation where a user seeks support from the Critical Friend, the Critical Friend will completely avoid questioning e.g. motives, and will instead listen and support the individual with the purpose of making the individual feel better.
 
 Affection is about con rming a user’s feelings, such as raising an individual’s achievements, af rming positive aspects of the individual, emphasizing strong features of the individual, in order to support the individual by con rming feelings. For example, if a user seeks contact and shares per- sonal information, the Critical Friend will amplify/increase what is positive about this information.
