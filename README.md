@@ -35,3 +35,13 @@ Temporal considers time as a factor, such as when to say/not to say something, a
 Relational has to do with factors such as trust which needs to be established to be able to have a relation, or faith which relates to what levels of faith an individual has towards a Crit- ical Friend. Relational is a key factor to consider for the Critical Friend, and it is vital for the Critical Friend to understand factual relations. For example, if trust has not been established between a Critical Friend and a user, it is likely that this will constrain and influence the interaction in a negative way.
 
 Situational has to do with situations as a factor, where balancing between being Critical and Friendly is necessary. The Critical Friend needs to be able to consider the situation. For example, being friendly or critical in a certain (wrong) situation may be misperceived, and the user might understand the behavior as ingenuine, which may influence a relation in a negative way.
+
+Authors
+
+Joel Wester {c.joel.wester@gmail.com}
+Andreas Brännström {andreasb@cs.umu.se} 
+Juan Carlos Nieves {jcnieves@cs.umu.se}
+
+Department of Computing Science
+Umeå university
+SE-901 87, Umeå, Sweden
